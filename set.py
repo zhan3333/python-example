@@ -1,5 +1,0 @@
-s = set([1, 2, 3])
-print(s)
-s.add((1, 2))
-print(s)
-s.add((6, [7, 8]))

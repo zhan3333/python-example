@@ -15,3 +15,4 @@ print(classmates)
 
 list = [1, 'str', True, None, 1.1, ['ABC', '123']]
 print(list)
+print(type(list))
